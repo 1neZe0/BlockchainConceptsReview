@@ -1,0 +1,5 @@
+A traditional blockchain works by creating a decentralized ledger of transactions that are verified and recorded across a network of computers. This is achieved through a process called "mining", where participants in the network compete to add new blocks of transactions to the chain.
+
+In a traditional blockchain, transactions are grouped into blocks, which are then verified by the network through a consensus mechanism. This consensus mechanism is usually achieved through a Proof of Work (PoW) algorithm, which requires miners to solve complex mathematical problems in order to add blocks to the chain.
+
+Once a block is added to the chain, it cannot be altered or deleted, creating a permanent and transparent record of all transactions on the network.
